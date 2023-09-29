@@ -13,9 +13,11 @@ The header file "dra_loop_args_generator.h" contains all of the code required fo
 
 -Compile the source file "dra_loop_args_generator.c":
 	Example compilation with GCC: ```gcc dra_loop_args_generator.c -o loops_generator```
+
 -Run the program with the appropriate parameters:
 	Program parameters: ```loops_generator <destination filename> <number of desired loops to generate>```
 	Example execution: ```./loops_generator dra_loops.h 100```
+
 -Include the generated header file in your program
 
 For further reference about the usage of this code, read the code from the included examples.
