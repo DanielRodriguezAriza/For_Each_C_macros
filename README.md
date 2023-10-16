@@ -38,6 +38,6 @@ For further reference about the usage of this code, read the code from the inclu
 
 ## Platforms
 Tested with:
--**GNU GCC Linux**
--**MinGW GCC Windows**
--**MSVC Windows** (requires enabling C standard compliant preprocessor tokenization in the compiler settings)
+- **GNU GCC Linux**
+- **MinGW GCC Windows**
+- **MSVC Windows** (requires enabling C standard compliant preprocessor tokenization in the compiler settings)
