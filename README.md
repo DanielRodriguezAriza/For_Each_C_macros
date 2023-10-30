@@ -40,4 +40,4 @@ For further reference about the usage of this code, read the code from the inclu
 Tested with:
 - **GNU GCC Linux**
 - **MinGW GCC Windows**
-- **MSVC Windows** (requires enabling C standard compliant preprocessor tokenization in the compiler settings)
+- **MSVC Windows** (no longer requires enabling C standard compliant preprocessor tokenization in the compiler settings. It now works even with default compiler settings!)
